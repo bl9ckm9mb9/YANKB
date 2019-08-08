@@ -1,4 +1,4 @@
 # YANKB
 Yet Another Kool Blog
 
-**The networking winds are'a blowing and the CLI is being replace by a technicolor text editor and python loops!**
+**The networking winds are'a blowing and the CLI is being replaced by a technicolor text editor and Python loops!**
