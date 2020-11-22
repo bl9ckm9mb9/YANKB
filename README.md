@@ -12,7 +12,7 @@ SO! ( skipping to the point of this post and for the sake of brevity ) I began t
 
 I hit the Google up and read, read, asked, and read. In the end, I came accross some great resources. Check for yourself after reading this post. Trust me.
 
-**The Problem:**
+#### The Problem:
 - I followed the GNS3 website instructions and had issues with the forwarding plane. Yes, I could configure the vMX in GNS3 just fine and getting routing working ( Routing Engine ) but when it came time to label switch ( Forwaring Engine ), NO LUCK
 
 IF you follow GNS3 site intructions, using vMX version 14.1R(whatever) then you just might have the kind of problems that I have described. My configuration ended up looking like this ( not working ):
